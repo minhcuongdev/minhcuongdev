@@ -1,6 +1,8 @@
 ### About me 😍
 My name is Minh Cuong, I'm a third-year student at University Information and Technology.
+
 <img src="./Images/minhcuongdev.jpg" alt="minhcuongdev" title="" height="300" />
+
 - 🔭 I’m currently working on UIT
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS, ReactNative, NodeJS
 - 📫 How to reach me: https://www.facebook.com/minhcuong.tran.374
